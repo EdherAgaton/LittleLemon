@@ -1,8 +1,7 @@
 # Little Lemon Food Ordering App
 
 This is my final project for the iOS Capstone by Meta course, which is to create a food ordering app for Little Lemon restaurant. 
-It displays a list of dishes available for ordering. Users can also customize it by enabling filters to show only certain categories 
-of food or using the search function to find food by name. The images below show what the app looks like.
+
 
 # Preview
 
