@@ -1,7 +1,7 @@
 # Little Lemon Food Ordering App
 
 This is my final project for the iOS Capstone by Meta course, which is to create a food ordering app for Little Lemon restaurant. 
-//
+<br>
 Este es mi proyecto final para el curso iOS Capstone by Meta, que consiste en crear una aplicación de pedidos de comida para el restaurante Little Lemon.
 
 # Preview
@@ -20,14 +20,16 @@ Este es mi proyecto final para el curso iOS Capstone by Meta, que consiste en cr
      <li>I also used the <b>Core Data framework</b>. I made a network call to get this data from the URL. After receiving this data, I saved it using the framework.</li>
 </ul>
 
-<u>
+# Características
+<ul>
 
-     <li>Creé una pantalla de registro donde se le pide al usuario que ingrese sus datos personales y agregué una animación para lograr un efecto más impresionante</li>
+ <li>Creé una pantalla de registro donde se le pide al usuario que ingrese sus datos personales y agregué una animación para lograr un efecto más impresionante</li>
      <li>Navegación plana, que permite a los usuarios interactuar con la aplicación de forma más cómoda, y navegación apilada para la descripción de los platos.</li>
      <li>La pantalla principal contiene el título, la sección principal, la sección del menú y la sección de la lista de platos.</li>
      <li>La pantalla de perfil muestra los datos personales del usuario y la configuración que se aplica a toda la aplicación.</li>
      <li>También es posible guardar los cambios en la pantalla de perfil, que se mantienen cuando se reinicia la aplicación.</li>
      <li>También utilicé el <b>marco de Core Data</b>. Hice una llamada de red para obtener estos datos de la URL. Después de recibir estos datos, los guardé usando el marco.</li>
+    
 
 </u>
 
